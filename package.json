@@ -1,0 +1,16 @@
+{
+  "name": "Testing By Protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor --version"
+  },
+  "keywords": [],
+  "author": "Abdur Rahman",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  }
+}
